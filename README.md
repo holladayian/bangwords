@@ -52,6 +52,30 @@ We origionally wanted to make an interactive puzzle solving page, but upon revie
 
 <br><br>
 
+
+### How To Play
+---
+```
+- Gather two people
+*two tabs works as well if you want to check it out by yourself
+- Sign in with a name if you'd like!
+*If not, you'll end up playing as guest
+- Have one player create a room using the room ID form 
+- Have the second player join said room
+- Declare who the word generator is
+*All other players will be guessers
+- Have the player who is the generator decide on a word or phrase for the other player(s) to guess
+- In the gamepage, the guesser can try guessing letters or the entire word/phrase
+#### Notes ####
+- Each guesser has 6 failed attempts
+- You gain points based on how many failed attempts you have left
+- You get a bonus if you guess the entire word/phrase
+- Use the chat to talk smack (politely) 
+- The generator changes after a game is complete
+```
+
+<br><br>
+
 ### Our Rough Draft
 ---
 
