@@ -1,6 +1,6 @@
 [![Contributors][contributors-shield]](https://github.com/GreyMatteOr/bangwords/graphs/contributors)
 [![Forks][forks-shield]](https://github.com/GreyMatteOr/bangwords/network/members)
-[![Issues][issues-shield]](https://github.com/GreyMatteOr/bangwords/issues)
+[![Issues][issues-shield]](https://github.com/holladayian/bangwords/issues)
 [![Stars][stars-shield]](https://github.com/GreyMatteOr/bangwords)
 
 ## BangWords
@@ -136,6 +136,6 @@ Leta Keane
 [forks-url]: https://github.com/GreyMatteOr/bangwords/network/members
 [stars-shield]: https://img.shields.io/github/stars/GreyMatteOr/bangwords.svg?style=flat-square 
 [stars-url]: https://github.com/GreyMatteOr/bangwords/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GreyMatteOr/bangwords.svg?style=flat-square
-[issues-url]: https://github.com/GreyMatteOr/bangwords/issues
+[issues-shield]: https://img.shields.io/github/issues/holladayian/bangwords.svg?style=flat-square
+[issues-url]: https://github.com/holladayian/bangwords/issues
 [product-screenshot]: images/screenshot.png
