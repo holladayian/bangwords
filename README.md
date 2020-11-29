@@ -1,7 +1,7 @@
-[![Contributors][contributors-shield]](https://github.com/GreyMatteOr/bangwords/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/GreyMatteOr/bangwords/network/members)
+[![Contributors][contributors-shield]](https://github.com/holladayian/bangwords/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/holladayian/bangwords/network/members)
 [![Issues][issues-shield]](https://github.com/holladayian/bangwords/issues)
-[![Stars][stars-shield]](https://github.com/GreyMatteOr/bangwords)
+[![Stars][stars-shield]](https://github.com/holladayian/bangwords)
 
 ## BangWords
 
@@ -130,12 +130,12 @@ Leta Keane
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/GreyMatteOr/bangwords.svg?style=flat-square
-[contributors-url]: https://github.com/GreyMatteOr/bangwords/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/GreyMatteOr/bangwords.svg?style=flat-square
-[forks-url]: https://github.com/GreyMatteOr/bangwords/network/members
-[stars-shield]: https://img.shields.io/github/stars/GreyMatteOr/bangwords.svg?style=flat-square 
-[stars-url]: https://github.com/GreyMatteOr/bangwords/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/holladayian/bangwords.svg?style=flat-square
+[contributors-url]: https://github.com/holladayian/bangwords/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/holladayian/bangwords.svg?style=flat-square
+[forks-url]: https://github.com/holladayian/bangwords/network/members
+[stars-shield]: https://img.shields.io/github/stars/holladayian/bangwords.svg?style=flat-square 
+[stars-url]: https://github.com/holladayian/bangwords/stargazers
 [issues-shield]: https://img.shields.io/github/issues/holladayian/bangwords.svg?style=flat-square
 [issues-url]: https://github.com/holladayian/bangwords/issues
 [product-screenshot]: images/screenshot.png
